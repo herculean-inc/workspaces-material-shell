@@ -26,7 +26,7 @@ var SettingButtonSubModule = class SettingButtonSubModule {
         this.button.connect('clicked', () => {
             imports.misc.util.spawn([
                 'gnome-shell-extension-prefs',
-                'material-shell@papyelgringo'
+                'workspaces-material-shell@herculean-inc'
             ]);
         });
         this.themeSettings = getSettings('theme');
