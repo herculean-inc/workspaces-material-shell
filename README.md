@@ -19,7 +19,7 @@ Get notified about updates and join me at [https://discord.gg/vBb7D9a](https://d
 ### From source
 1) Clone the project to the gnome-shell extensions folder:
 ```bash
-git clone https://github.com/herculean-inc/workspaces-material-shell.git ~/.local/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc
+git clone https://github.com/herculean-inc/workspaces-material-shell.git /usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc
 ```
 2) Reload GNOME Shell:
   + On X.org: Hit `Alt+F2` and type the command `r`
