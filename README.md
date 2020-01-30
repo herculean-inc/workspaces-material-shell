@@ -1,18 +1,6 @@
 # Workspaces Material Shell
 A fork of [PapyElGringo's Material Shell](https://github.com/PapyElGringo/material-shell) for use in Workspaces OS.
 
-Made by following the **[Material Design guidelines](https://material.io)** - a solid baseline that allows us to provide an **aesthetically pleasing** and **highly accessible** interface.
-
-#### [Read more about the workflow and Material Shell](./documentation/material-shell.md#workflow)
-
-## Demo
-
-![Demo GIF](demo.gif)
-
-### Discord
-Get notified about updates and join me at [https://discord.gg/vBb7D9a](https://discord.gg/vBb7D9a)
-#
-#### STATUS: BETA (expect bugs!)
 #### REQUIRES: gnome-shell >=3.32.0
 
 ## Installation
