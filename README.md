@@ -36,9 +36,3 @@ Some hotkeys might already be used by GNOME Shell - please check your keybinding
 #### Extra Hotkeys
 * `Super+Space` Cycle the tiling layout of the current workspace.
 * `Super+Escape` Toggle the UI of Material-shell, like a Zen mode.
-
-## Recommended Additional Configuration
-* GTK and GNOME Shell theme: [Plata Theme](https://gitlab.com/tista500/plata-theme)
-* Icon theme: [Tela Icon Theme](https://github.com/vinceliuice/Tela-icon-theme)
-
-The project is based on my earlier work on [Material Awesome](https://github.com/PapyElGringo/material-awesome).
