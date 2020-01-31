@@ -6,44 +6,40 @@ Date: Fri, 31 Jan 2020 14:52:58 -0600
 Source: workspaces-material-shell
 Architecture: source
 Version: 1.0
-Distribution: unstable
+Distribution: eoan
 Urgency: medium
 Maintainer: Herculean Inc <hello@hercules.dev>
 Changed-By: Herculean Inc <hello@hercules.dev>
 Changes:
- workspaces-material-shell (1.0) unstable; urgency=medium
+ workspaces-material-shell (1.0) eoan; urgency=medium
  .
    * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 Checksums-Sha1:
- 0aec477492099e18026c78d764a98570c6022596 1910 workspaces-material-shell_1.0.dsc
- 866110a8bc4ac09bf4032fc802d3a1fed0c2cd08 24498040 workspaces-material-shell_1.0.orig.tar.xz
- 763f708214a300a1328a9cea50aa5e44e245ab35 7668 workspaces-material-shell_1.0.debian.tar.xz
- 6be50ad2bae40b281dd4edd68ff1be06b12b97ec 6179 workspaces-material-shell_1.0_source.buildinfo
+ c50eb23a25e04985b85261dc97b5f047d7696414 1578 workspaces-material-shell_1.0.dsc
+ c5125a561f570920b4792c1dea38dc8870206f7f 24494168 workspaces-material-shell_1.0.tar.xz
+ 55fa842747d9678065f3155477f21f7ba2371570 6150 workspaces-material-shell_1.0_source.buildinfo
 Checksums-Sha256:
- e64e0d56858acfcce19a75d61f1ccfd5abf50aafb90d4484c73983508c63af31 1910 workspaces-material-shell_1.0.dsc
- 59c8b158f2d43b0cdd6c2ee1f8e3ea11cffa11de9ffa96248b507e07b94d4060 24498040 workspaces-material-shell_1.0.orig.tar.xz
- 93591ca0c7691c5ba7ca92264bbbd88b78d8a4545ee444b6ae4c08af42503070 7668 workspaces-material-shell_1.0.debian.tar.xz
- 7d9ae7e800a1f0f6995f634b324a3c5f3aaab8ed24b3da6cb38e27831cb1b99c 6179 workspaces-material-shell_1.0_source.buildinfo
+ 6b1d0581b928f025efb8b8e8067863e81f06c96e9679981e364f031e545dcc1b 1578 workspaces-material-shell_1.0.dsc
+ d0ae7054878ab5a5611a18415584e1701cd89e80f873536b6676655ec6452f1d 24494168 workspaces-material-shell_1.0.tar.xz
+ 9762ef13d431c12f5cd015884f78ec9170175acef558d8e475e13f4f78d0da5b 6150 workspaces-material-shell_1.0_source.buildinfo
 Files:
- 4af0fac4f458e7cc90331d0c48c27905 1910 metapackages optional workspaces-material-shell_1.0.dsc
- 15f59f0d1f92b7a426e038525045a54d 24498040 metapackages optional workspaces-material-shell_1.0.orig.tar.xz
- 62eedeaa5a4c7e1e43d68b1e4d44c568 7668 metapackages optional workspaces-material-shell_1.0.debian.tar.xz
- 0d001b9289182a90f12b4cb1a21a41b4 6179 metapackages optional workspaces-material-shell_1.0_source.buildinfo
+ 0e934591bb35e728d0c1464256e9bd17 1578 metapackages optional workspaces-material-shell_1.0.dsc
+ 79ec91387ae7e16c11c0f1ca0fc7b607 24494168 metapackages optional workspaces-material-shell_1.0.tar.xz
+ 97cbe4ad9b1983c274d100e825732807 6150 metapackages optional workspaces-material-shell_1.0_source.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCgAxFiEEs7ZTezy6LcwVYNIJS9sBa+IXQOsFAl40l50THGhlbGxvQGhl
-cmN1bGVzLmRldgAKCRBL2wFr4hdA6zZOD/40J8r+E5LIclibNc1yYZsvXBNtDp06
-eh7dkKYc1dImVZo8p2ocCASnzVt16iGVOJG8jQRTOK666OLn3PQUqlLjf0rQvgtJ
-CO1T8IV1hJr2eCQuX0mKH50WeLcRmL1sVZcJV9DhzbQZuUdIU5Ni2GWY2NduTAtU
-XYJNtB0t84MyRaoLiZ5wGAXXT/oOeRodmGZHD01OVLRWXLRc3RdzcsZLbxpYQEwQ
-tlUMP2dmBv04kQlvxFxUcdKyLDxc6IPs7+u2CVwMijra1BqCKtQtFhIwRBpHb2BQ
-8BSO9HMWu88bdMfihvnn24E0zr8J7iYhq8GAAXgeTZq8UCIQIpWSVR3t0Gf8WyX2
-LErSETgCKGE2210trzUCvT0EPqtRrjIlfRSSlSdVbtwYUIDWvxoPE76bkJ51nHvC
-zBtQSkzsEweY5XIlwyADkKEq4uXcq5hxYbbKTta9mnlnYBEG/c8zCSAvhFFPVG8r
-MFToiTfEDMQodEOd5Wx6BstR3v+sCuHjU+mTIesUqCIZNORFxMg7QFNinTucC1vP
-vKv3mP7v1GnfFK2GhfSXBHftZp06KDLN6UgdI9Uco3l7P5X6zhJigzzfN47by0tn
-iDQMbcZSpnrxRdAGbX+t18D6jraY3p89+Z0CO/u4t5rz7XbeLEtcP8gFOCr57Xsb
-72IovZlBo/VH+A==
-=pj5+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl40s6QACgkQ4dwtItTb
+NMi/ZRAAgkOtXIl0tIdp+8mdLy6HH37YZr5Kdw5cytkf8SCafeVKerj2QNI5ub/w
+Z50erMmAvWk6jgJdOqF1jS63bvYd47Cg7+zAuSjE0OTiz+w2+HJpNwzf6SMK1msH
+ZJwFXomZ79wrQAlMtksN6qXLz1rQFzasM/l89mLOxL1tQVqtpwADArP6Wuv7ompB
+/ZNXqX33+g6f41nWeWwNQYT9d2VCVhGtbmYB3o5DGNO4+8b4I6MLRsgAtYsf4ra5
+YihEY1Luf4UaTVgpqqbfq5ThEYkbtpwR5fEbMbmxAZRZpSPuX7d7u3E6OrAU1orE
++0kwlLf1XvQdMTHdZZv4DGyA2BY7IOiprSP+CbXo0kc+bqGp6+2e80C4jVOnqe7m
+ZqAt3hziT0+VUsfr7LgulOc00OWrpsKT8M7j/3a4mUfUHmOW+6HYIAyUJNkZYrf2
+zmrBjG39+ODENWbbQwbzYBDSYJYWrM7h6v6RbDfMvr+qniDP7gyAdn71HQzCpoN3
+RCX7S6V6xJOGu5I5qgswOvvbOVd1ld+pkli0HgwMEcs2wwfOf0x+gKnAN+bDi3+K
+8/gmTb1Qdb2yU7HuZ4DEddGagrHBndYwGAs7QzEulFRt4vSvgSuV6x1IshL509tb
++arJKvI0lN6iPbBn/1XbZ01XiAlNXcq+DIC6ZhAEyasN8mnErQ8=
+=cf8M
 -----END PGP SIGNATURE-----

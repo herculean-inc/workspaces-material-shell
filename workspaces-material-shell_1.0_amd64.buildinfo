@@ -1,20 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.0
 Source: workspaces-material-shell
 Binary: workspaces-material-shell
 Architecture: all source
 Version: 1.0
 Checksums-Md5:
- e27bb2fab1b8a6ec212ca639b75c2c31 998 workspaces-material-shell_1.0.dsc
- 4acf7ec5d6d77513556958a99a037a89 24503512 workspaces-material-shell_1.0_all.deb
+ 21fc26b2b764a1f57d82b8df18b61903 1578 workspaces-material-shell_1.0.dsc
+ 51e8493694267573d44da9acb040e7bb 24503552 workspaces-material-shell_1.0_all.deb
 Checksums-Sha1:
- 3cab564b8db69638d77ee18b44a7961791319b54 998 workspaces-material-shell_1.0.dsc
- caed717506057fe141e00a11fdb88d11774bf737 24503512 workspaces-material-shell_1.0_all.deb
+ b96f3074f70efed84f27e9eda54f1d1e59f46d38 1578 workspaces-material-shell_1.0.dsc
+ aba1d6f2b854ced2ca5b2f4b1f26069c7050a58b 24503552 workspaces-material-shell_1.0_all.deb
 Checksums-Sha256:
- 0701358aac23a0a3fd224ec34f14e01f3e90de1f0c54f8878c6d319c9d111c49 998 workspaces-material-shell_1.0.dsc
- 4e6e53e12fb404fc159db17a76029f0427e30500ddc0204a9d473538ea757cc9 24503512 workspaces-material-shell_1.0_all.deb
+ 5da9f5fa5724b0a831bfcf7f4c46e60d2f321cb865ebb52cc1d60c0c4052eecd 1578 workspaces-material-shell_1.0.dsc
+ 6e571e7fe6faccfbe13e22e2d8a2a32810c77557082fb982988ebe64b2114832 24503552 workspaces-material-shell_1.0_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 31 Jan 2020 15:08:55 -0600
+Build-Date: Fri, 31 Jan 2020 17:05:18 -0600
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-configs
@@ -172,3 +175,20 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=8"
  LANG="en_US.UTF-8"
  SOURCE_DATE_EPOCH="1580503978"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl40sz4ACgkQ4dwtItTb
+NMiS9BAAi0e/NXC2R6hi+MWkz3Al1rpjipXZTA/sX3V3D3ox4uAgenOVqvHXk/pS
+OWkymh6yXyA7xZlrcFVYg2C7KVVV9SlMVXPQYpEl6+xzCrjWpwW9uOxl2NTKB9nC
+JS8kjzVIN+Ip/gReSzoat+i/d3cf/Af4q/YZ0S3s6gwYOZ+hK2Ogc8xM+jV9Oi8X
+HSkRgZkfaxCOWjz4MpaBD0n9aU91wuyZkVhxWtAqBt3pGN4K4j3NrCTaK7JLLFGi
+WAiYQf4odDW6WOqiGtYTZZbOi0Q4X/KQ4YxkfJxZnlElNwHMcGTPAdewP94rBc8o
+AKBhcRMBxgXj1NRdM2HvmjWJ3CVgdzbu+wteObOFJGgfvDGmWbXudips6jgE5Z8N
+QEI0s1pP4h46d1VSYZNcff/XDxeg/FoEaScPWlIiZQC4bOBkKidfJBO9f2985POl
+L6m1at239J80ImBdS/3ZbyxSGLm1kpwzGHPRbW7BtN0kF4tlXqkTiPn7bstD9S+d
+iois6oGTakgIud0L3Vkz4LkUoAFXIsjx7RdHwSe4jBKyDoRlMu2nXTJ7DHNbHKjT
+xzJZIcldMwHVm+rTkEvdAsFZpEEt7e2qwj0Ctzv/I5ZTai2E6isu1PSKN4Qr1Kos
+6oF6IqrzVtRV6UXw22jH82PTc0JWBLu7mHrmgm7iYyT4221jPkE=
+=4g6D
+-----END PGP SIGNATURE-----

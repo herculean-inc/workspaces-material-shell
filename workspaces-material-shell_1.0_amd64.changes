@@ -1,34 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Fri, 31 Jan 2020 14:52:58 -0600
 Source: workspaces-material-shell
 Binary: workspaces-material-shell
 Architecture: source all
 Version: 1.0
-Distribution: unstable
+Distribution: eoan
 Urgency: medium
 Maintainer: Herculean Inc <hello@hercules.dev>
 Changed-By: Herculean Inc <hello@hercules.dev>
 Description:
  workspaces-material-shell - Material Shell for Workspaces.
 Changes:
- workspaces-material-shell (1.0) unstable; urgency=medium
+ workspaces-material-shell (1.0) eoan; urgency=medium
  .
    * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 Checksums-Sha1:
- 3cab564b8db69638d77ee18b44a7961791319b54 998 workspaces-material-shell_1.0.dsc
- 866110a8bc4ac09bf4032fc802d3a1fed0c2cd08 24498040 workspaces-material-shell_1.0.orig.tar.xz
- 763f708214a300a1328a9cea50aa5e44e245ab35 7668 workspaces-material-shell_1.0.debian.tar.xz
- caed717506057fe141e00a11fdb88d11774bf737 24503512 workspaces-material-shell_1.0_all.deb
- 784a73636d90fffc0023ec6950cdd45c5190d5e3 5551 workspaces-material-shell_1.0_amd64.buildinfo
+ b96f3074f70efed84f27e9eda54f1d1e59f46d38 1578 workspaces-material-shell_1.0.dsc
+ c5125a561f570920b4792c1dea38dc8870206f7f 24494168 workspaces-material-shell_1.0.tar.xz
+ aba1d6f2b854ced2ca5b2f4b1f26069c7050a58b 24503552 workspaces-material-shell_1.0_all.deb
+ 00d76eff1bb365c9e7825b58055dad540fbc918d 6437 workspaces-material-shell_1.0_amd64.buildinfo
 Checksums-Sha256:
- 0701358aac23a0a3fd224ec34f14e01f3e90de1f0c54f8878c6d319c9d111c49 998 workspaces-material-shell_1.0.dsc
- 59c8b158f2d43b0cdd6c2ee1f8e3ea11cffa11de9ffa96248b507e07b94d4060 24498040 workspaces-material-shell_1.0.orig.tar.xz
- 93591ca0c7691c5ba7ca92264bbbd88b78d8a4545ee444b6ae4c08af42503070 7668 workspaces-material-shell_1.0.debian.tar.xz
- 4e6e53e12fb404fc159db17a76029f0427e30500ddc0204a9d473538ea757cc9 24503512 workspaces-material-shell_1.0_all.deb
- b9d477fbeb74403842c67a125cfc486d0957b33077e4c2b39338161709ad7587 5551 workspaces-material-shell_1.0_amd64.buildinfo
+ 5da9f5fa5724b0a831bfcf7f4c46e60d2f321cb865ebb52cc1d60c0c4052eecd 1578 workspaces-material-shell_1.0.dsc
+ d0ae7054878ab5a5611a18415584e1701cd89e80f873536b6676655ec6452f1d 24494168 workspaces-material-shell_1.0.tar.xz
+ 6e571e7fe6faccfbe13e22e2d8a2a32810c77557082fb982988ebe64b2114832 24503552 workspaces-material-shell_1.0_all.deb
+ e7c889ba4b2e5089d730ee1973dff0942f8802e7622f97343152f4e5cf6489e4 6437 workspaces-material-shell_1.0_amd64.buildinfo
 Files:
- e27bb2fab1b8a6ec212ca639b75c2c31 998 metapackages optional workspaces-material-shell_1.0.dsc
- 15f59f0d1f92b7a426e038525045a54d 24498040 metapackages optional workspaces-material-shell_1.0.orig.tar.xz
- 62eedeaa5a4c7e1e43d68b1e4d44c568 7668 metapackages optional workspaces-material-shell_1.0.debian.tar.xz
- 4acf7ec5d6d77513556958a99a037a89 24503512 metapackages optional workspaces-material-shell_1.0_all.deb
- 06330737c0d044c67e52ba890f574a9d 5551 metapackages optional workspaces-material-shell_1.0_amd64.buildinfo
+ 21fc26b2b764a1f57d82b8df18b61903 1578 metapackages optional workspaces-material-shell_1.0.dsc
+ 79ec91387ae7e16c11c0f1ca0fc7b607 24494168 metapackages optional workspaces-material-shell_1.0.tar.xz
+ 51e8493694267573d44da9acb040e7bb 24503552 metapackages optional workspaces-material-shell_1.0_all.deb
+ 4e7ff8acef2e2306eb4f8674d8694e6f 6437 metapackages optional workspaces-material-shell_1.0_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl40sz4ACgkQ4dwtItTb
+NMgWFhAAlhVXs9oJ5jGB9fTbDzfCcN3xABhiOpHRyw9isMPn1fyhmufWwKi8fdqz
+YQFwIz92lHQ49JLBfl+NwdJex8MN62NdxNNUgF3EN39TUvdgpSANojkeNwGI+DhP
+afPVBj4h8lfcdQqzjCCf96ca8T46szQd0XuBPHHJHZt30YQFLkSxQMC3XgmyDhGi
+CxTh9ykqvHdxMHWdEt6WSUDjv5wRYSxdQhYiy5ueT9wV6C+LtTXILPT/hzpOHEkp
+15SUnKi15fQ7vV2bwKHvCQIBT9/3i8dCOHl8EpWpsedZxgSRmmma8VY3veI4e98p
+YJg/XfQ34meAJG93npkapG0AoZCHU5Hrputh+wBiRsCmtWWUda8aD9hhReASfteb
+bVvdAvMD/Jj36oEsBeqkPY0BlvtLGb7k5kucNCKJsQOLvMkyME2AffqgqrLOYeT7
+GSwmd+bQI5aVJ+4GSRTVLuawiZ3GysNuiyABQwnypoHrpN5wyOjiXmZs4ADsuqTo
+5+BbdzJIFuNS0deH9VN3MQT+vgMSY8FYIXLih2fVIdrlo8NQWgPjMEbC1WiLV20O
+U32fLO2pqyGTopfr/Hz4+TvhrSSmC39MTFqyqX3+8bJxRsLgLfOBRHNL6qQqqweG
+OhemT0ec3LCWhaSmP7vjZI92Ldkfe/wxaqDKxQAAMI1VzgArFW8=
+=x6PD
+-----END PGP SIGNATURE-----
