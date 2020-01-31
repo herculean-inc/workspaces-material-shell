@@ -1,0 +1,13 @@
+Source: workspaces-material-shell
+Section: metapackages
+Priority: optional
+Maintainer: Herculean Inc <hello@hercules.dev>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 1.0
+Homepage: https://github.com/herculean-inc/workspaces-material-shell
+
+Package: workspaces-material-shell
+Architecture: all
+Depends: ${misc:Depends},
+    gnome-shell,
+Description: Material Shell for Workspaces.

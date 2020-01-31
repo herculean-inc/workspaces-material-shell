@@ -1,0 +1,5 @@
+workspaces-material-shell (1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Herculean Inc <hello@hercules.dev>  Fri, 31 Jan 2020 14:52:58 -0600
