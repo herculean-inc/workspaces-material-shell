@@ -22,13 +22,13 @@ all:
 clean:
 	rm -rf _build
 
-install: all
-	uninstall
-	mkdir -p $(INSTALLBASE)/$(INSTALLNAME)
-	cp -r _build/* $(INSTALLBASE)/$(INSTALLNAME)/
-
 uninstall:
 	rm -rf $(INSTALLBASE)/$(INSTALLNAME)
+
+install: all
+	rm -rf $(INSTALLBASE)/$(INSTALLNAME)
+	mkdir -p $(INSTALLBASE)/$(INSTALLNAME)
+	cp -r _build/* $(INSTALLBASE)/$(INSTALLNAME)/
 
 zip-file: all
 	cd _build && zip -qr "../$(UUID)$(VSTRING).zip" .
