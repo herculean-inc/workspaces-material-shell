@@ -1,12 +1,12 @@
 <schemalist>
   <schema id="org.gnome.shell.extensions.materialshell.layouts" path="/org/gnome/shell/extensions/materialshell/layouts/">
     <key name="maximize" type="b">
-      <default>true</default>
+      <default>false</default>
       <summary>Maximize layout</summary>
       <description>Maximize all windows</description>
     </key>
     <key name="split" type="b">
-      <default>true</default>
+      <default>false</default>
       <summary>Split layout</summary>
       <description>Put all windows side by side, two at a time</description>
     </key>
@@ -41,7 +41,7 @@
       <description>Tile windows according to a regular grid</description>
     </key>
     <key name="float" type="b">
-      <default>false</default>
+      <default>true</default>
       <summary>Float layout</summary>
       <description>No tiling is done, windows are floating freely</description>
     </key>
