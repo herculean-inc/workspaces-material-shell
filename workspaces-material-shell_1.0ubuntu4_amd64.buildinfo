@@ -4,17 +4,17 @@ Binary: workspaces-material-shell
 Architecture: all source
 Version: 1.0ubuntu4
 Checksums-Md5:
- 4f8ab086d895a36f3ccfc063c6551beb 723 workspaces-material-shell_1.0ubuntu4.dsc
- 0a4ac86c1c648457f5da5aad17bbf853 24503416 workspaces-material-shell_1.0ubuntu4_all.deb
+ 42d90310f36ad4dc1cdc20c0ef7a9758 723 workspaces-material-shell_1.0ubuntu4.dsc
+ d86288d2fa759736de408eb8e1bd7100 24503416 workspaces-material-shell_1.0ubuntu4_all.deb
 Checksums-Sha1:
- c4f04406f89e759266dbd16d04aaf024ee2e06f5 723 workspaces-material-shell_1.0ubuntu4.dsc
- fc9cd9bb6be19b74462dca09ea7c554fd3576464 24503416 workspaces-material-shell_1.0ubuntu4_all.deb
+ 24b1fa4978a4ca2449f92de32a1ca2b08fcf14fd 723 workspaces-material-shell_1.0ubuntu4.dsc
+ 620a84d59b45527cd9654557a4bdb44dd32076ac 24503416 workspaces-material-shell_1.0ubuntu4_all.deb
 Checksums-Sha256:
- f91591af01dc060a4001feafe07fbc543f99c343b51e6aa2b189f9398f8e6463 723 workspaces-material-shell_1.0ubuntu4.dsc
- 3d7b6ddccd842ed39b3699c81e20dcbd85d918e1d91ea502126391f058d89337 24503416 workspaces-material-shell_1.0ubuntu4_all.deb
+ 84c3508ac41bc43106454ac8f196c6e45ba70c03294935a5d8c2b693d14fa355 723 workspaces-material-shell_1.0ubuntu4.dsc
+ 06794ceee8cd4b6abc13fca6901fac943e96af4941f754d150a588afed8d8817 24503416 workspaces-material-shell_1.0ubuntu4_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sat, 01 Feb 2020 14:35:05 -0600
+Build-Date: Sat, 01 Feb 2020 14:39:11 -0600
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-configs

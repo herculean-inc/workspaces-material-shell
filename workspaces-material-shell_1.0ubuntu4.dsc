@@ -10,8 +10,8 @@ Build-Depends: debhelper-compat (= 12)
 Package-List:
  workspaces-material-shell deb metapackages optional arch=all
 Checksums-Sha1:
- eee39b06111708dd15e0daa433a00e05a1561c5a 24499996 workspaces-material-shell_1.0ubuntu4.tar.xz
+ 89db5bf32627dd10f144db4cbd08ccae1ed6511a 24499980 workspaces-material-shell_1.0ubuntu4.tar.xz
 Checksums-Sha256:
- eae5850078ad62546bf79a85313f726eadcfebdf45fbe1019a947946be5d185f 24499996 workspaces-material-shell_1.0ubuntu4.tar.xz
+ ff9190640ef1021ed3eb993ddb4653c8e59b09b1e12e62f823080260afdbb6b4 24499980 workspaces-material-shell_1.0ubuntu4.tar.xz
 Files:
- a14873dcd2d8c7cda903acb425f22c65 24499996 workspaces-material-shell_1.0ubuntu4.tar.xz
+ d90e104d09d30d73c465d69ddc9a229c 24499980 workspaces-material-shell_1.0ubuntu4.tar.xz

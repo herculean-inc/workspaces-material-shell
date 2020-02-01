@@ -39,7 +39,7 @@ var RectangularClockSubModule = class RectangularClockSubModule {
      * Deliberately separates HH:MM into distinct sections
      */
     update() {
-        let clockSections = this.dateMenu._clock.clock.replace(/∶/g, ' ').split(' ');
+        let clockSections = this.dateMenu._clock.clock.split(' ');
         if (!clockSections[0]) clockSections.shift();
 
         const markup = clockSections.map(section => `<span>${section}</span>`).join('\n');

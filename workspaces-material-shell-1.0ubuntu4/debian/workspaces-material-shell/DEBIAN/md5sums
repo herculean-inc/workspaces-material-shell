@@ -45,7 +45,7 @@ c0cb2ac2935ae94127b348e5b0d27e61  usr/share/gnome-shell/extensions/workspaces-ma
 f5c8d28f3524eabacac76cb55eccec86  usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc/module/leftPanel/materializePanelSubModule.js
 270359f6d41be0d45e8074c48b4b0eea  usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc/module/leftPanel/panelToLeftSubModule.js
 ba2d5163426b864b160d8af6f4181b9a  usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc/module/leftPanel/settingButtonSubModule.js
-df0a54779edce43acd5a3e4a17e11b06  usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc/module/leftPanel/verticalisePanel/rectangularClockSubModule.js
+5dc2a382e3ef88ec239fa0ba7debcde3  usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc/module/leftPanel/verticalisePanel/rectangularClockSubModule.js
 fb2aec12d0dd82178a32a969a200a58c  usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc/module/leftPanel/verticalisePanel/verticalisePanelSubModule.js
 4fcc061702be54016767fe82d33e328b  usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc/module/requiredSettingsModule.js
 dfbb7b54ef008d78be7c4db7112de344  usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc/module/superWorkspaceModule.js
