@@ -1,7 +1,8 @@
 $color-primary: #3f51b5;
 $ripple: rgba(255, 255, 255, 0.12);
 $shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
-$panel-size: 48px;
+$height-unit: 48px;
+$width-unit: 72px;
 
 @mixin foreground($theme, $opacity) {
     @if ($theme == 'light') {
@@ -108,8 +109,8 @@ $panel-size: 48px;
 
 @mixin buildTheme($theme) {
     .mat-panel-button {
-        height: $panel-size;
-        width: $panel-size;
+        height: $height-unit;
+        width: $width-unit;
         .mat-panel-button-icon {
             width: 24px;
             height: 24px;
@@ -134,7 +135,7 @@ $panel-size: 48px;
 
     #leftPanelBox,
     #leftDashSpacer {
-        width: $panel-size;
+        width: $width-unit;
     }
 
     .mat-button {
@@ -174,7 +175,7 @@ $panel-size: 48px;
     }
     #panel {
         @include background($theme);
-        width: $panel-size;
+        width: $width-unit;
         box-shadow: $shadow;
         #panelLeft,
         #panelCenter,
@@ -189,7 +190,7 @@ $panel-size: 48px;
             padding: 0px;
             spacing: 0px;
             > * {
-                width: $panel-size - 20px;
+                width: $width-unit - 20px;
                 padding: 4px 0px;
                 margin: 0px;
                 @include foreground-medium-emphasis($theme);
@@ -207,7 +208,7 @@ $panel-size: 48px;
     }
 
     #topBarSpacer {
-        height: $panel-size;
+        height: $height-unit;
     }
 
     #topPanel {
@@ -216,7 +217,7 @@ $panel-size: 48px;
             $topPanelTheme: 'light';
         }
         @include background($topPanelTheme);
-        height: $panel-size;
+        height: $height-unit;
         box-shadow: $shadow;
         .task-active-indicator {
             @if ($topPanelTheme == 'dark') {
@@ -228,7 +229,7 @@ $panel-size: 48px;
         }
         .task-bar-item {
             font-size: 14px;
-            height: $panel-size;
+            height: $height-unit;
             &.active {
                 .task-bar-item-content {
                     .task-bar-item-title {
