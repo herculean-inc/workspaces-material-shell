@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 01 Feb 2020 15:15:01 -0600
+Source: workspaces-material-shell
+Architecture: source
+Version: 1.0ubuntu5
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-material-shell (1.0ubuntu5) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 6467d124f8b68e6283822a6037854239a9302cbb 1606 workspaces-material-shell_1.0ubuntu5.dsc
+ efb692dd259b26ecd3acb0e2e5a0823832cf70ca 24500180 workspaces-material-shell_1.0ubuntu5.tar.xz
+ 62b2e7100becfa9acd682a59896c406fe5b64830 6178 workspaces-material-shell_1.0ubuntu5_source.buildinfo
+Checksums-Sha256:
+ 1ba08c388574bc4b700e70c84458be1510a697815c59059737adfa07b0459d28 1606 workspaces-material-shell_1.0ubuntu5.dsc
+ 320e19845617992bc82a7579877253d7fe251dbb7e714592f0df9c18a9ca96bd 24500180 workspaces-material-shell_1.0ubuntu5.tar.xz
+ 1b6c4d5e544dd33656b5c1a97265f3670710a956a4a9c81f9b7216ed515ca479 6178 workspaces-material-shell_1.0ubuntu5_source.buildinfo
+Files:
+ 55ecac9f2d2237b849ff98a777c3ccbf 1606 metapackages optional workspaces-material-shell_1.0ubuntu5.dsc
+ 4403add62df81babb9cec5eaee0b2358 24500180 metapackages optional workspaces-material-shell_1.0ubuntu5.tar.xz
+ aa4dbf4eea973d8f49201e3ea4e08730 6178 metapackages optional workspaces-material-shell_1.0ubuntu5_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl416mAACgkQ4dwtItTb
+NMiLwg//eDwvarIgbFDWCk+5G6A5OzUHOIlrT2+vdf1g2BBGrXHq1jAW8E1dSPhA
+L1zN/DqZsh+z61o1zf4MKBkNOg4BIpksXllKZrjCiy3TCCtPJFyCJK/70pkjglk0
+ZVm/E4xCTVDg0Se+3FvQqFMkGFYxFf33qHsgk7x3f+E/uidbmYuV3tk5VcLMjgEy
+VNEFfNVLgbv+xi9wNCvUlmTqb7t6Dwts/kv1sIxJSti6Z5TgulXt4hBKEOfYyG3G
+Avt1dqsMNZzktM68IdKfM2NIA9WC2Sm3ZaxhZIT12tn48BQCJv67yx6z9f3jQRPw
+4MEOsI3j36q1BO8KQAgJbXyp7KMZ3ONhpqjPktIqbBgjItpIWAvbcEscxEnVYYQA
+q5j26X++0ZQZyP0QbZwX4T1SM5Ak3ZDj2WeZBzZu6xp1HNIsAR+5vptESHBw7YV2
+WldmxBloZjAYKxU7i8TPWTXy5suO9ew13P/NagxtHVXte4PPcU8j7R99lRNwdBlS
+c0YcAbI7c6gMeChrToGzqn46Efk/RqGast92nQfEsBjxoJyxC8thWGKrBLfegk9Z
+fqVIfl4Ju8EcPMrK3PCa2CWajuuUERG7s4iGr+uLbGHJFphMt+UEX2XYLFO60lEQ
+qC7YbfjHONKp49mn6v6ZBd+UPyTE98e5TYy8PVn3Wi/O7+XWkn0=
+=g25o
+-----END PGP SIGNATURE-----
