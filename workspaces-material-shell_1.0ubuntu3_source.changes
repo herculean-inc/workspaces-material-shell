@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 01 Feb 2020 11:36:58 -0600
+Source: workspaces-material-shell
+Architecture: source
+Version: 1.0ubuntu3
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-material-shell (1.0ubuntu3) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 0b735a3bc684a901045b2cea7246e69916e800fb 1606 workspaces-material-shell_1.0ubuntu3.dsc
+ e61220507cdd5b48cd4dae4fc0dfcec7755d1d68 24489820 workspaces-material-shell_1.0ubuntu3.tar.xz
+ 57d553cd03c2e2703c3d6c9a6ba0478b64cd0ab5 6178 workspaces-material-shell_1.0ubuntu3_source.buildinfo
+Checksums-Sha256:
+ b25b1ece371d027091268bcdaabfc60458d1ab106c07f1c9726811d921eb5284 1606 workspaces-material-shell_1.0ubuntu3.dsc
+ 2be75e25766a65ba2ace3fee48e7fb45d62f6cfc23ed14a14ab31048ada1fd9e 24489820 workspaces-material-shell_1.0ubuntu3.tar.xz
+ 621fe38846b7cf115c3be910cc8be1cbe91dbbacac5a502ab5ead0415ab8de03 6178 workspaces-material-shell_1.0ubuntu3_source.buildinfo
+Files:
+ 13658cc3a20f3a6244ab9c642f30639d 1606 metapackages optional workspaces-material-shell_1.0ubuntu3.dsc
+ ba30158250a7ca6fe8ec8508248a1d46 24489820 metapackages optional workspaces-material-shell_1.0ubuntu3.tar.xz
+ 34192d660cd9fd2b46f107810f572149 6178 metapackages optional workspaces-material-shell_1.0ubuntu3_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl41t0UACgkQ4dwtItTb
+NMiYERAApVxxpb+ImIZykWMWhQLsTq7g2is4A2LjgAnKcxeZR9sIKMyPUCJffVGg
+vE/qnZGyH+q+8yYU5XmsyOWnC/PCpm2q0mvtQVAEfos9lNXTNgL2q66sPSRIKOWK
+pVN3jiqPBFJcY4TSakMA3VW4MFT51vjhXG1ZpzQ4ALkaypeyLh4iWmFj0mRpKZrJ
+oewS0ieVYlp3d+cyAg2wPdAqcUWYoXzd/ZQZXiGn4m/XfBeAuWogarcZ6ixwoHbZ
+gotUlDy/TKSu9+kZ1X/tiL4FoGeeYB2tO59NfcuFJnLlwKmZgAraseYwETZ36n2J
+fUJkW3ntdHMalQDTrzGNtNJMteesJQ3cLVerhYPFqyGEpErYDYD826yvu7SqbuoD
+FguPxAbCEkwplrdtn4Y9uPhBYnADPwiwDEfv8eLLik25c40Kee1cs9BG0pkW5VJH
+FGGldORKNnP6LvTBqe1WN859ju3EANlr3phA1YKrWdi6fjtgw9s2l8LFgcd8QkaX
+y1975mqlenx6ug5s7gadAqaEfDEBo9ogzOfRXzy0g9Ww0uuYYXEzdgxsyeArYNA1
+t5YHhwxE+UA6lpB8p5hWHsW2zQ8pGbfkFDyYMOO0a69QHFHKQJWdOxHtKc/nGI6N
+JxQ71WkW8tBhqxeOjb+xGUTiR5F0u5U+Rvy38vrfmAqJO78eokE=
+=bu8N
+-----END PGP SIGNATURE-----
