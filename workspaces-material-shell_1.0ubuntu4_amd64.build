@@ -1,0 +1,82 @@
+ dpkg-buildpackage -us -uc -ui
+dpkg-buildpackage: info: source package workspaces-material-shell
+dpkg-buildpackage: info: source version 1.0ubuntu4
+dpkg-buildpackage: info: source distribution eoan
+dpkg-buildpackage: info: source changed by Herculean Inc <hello@hercules.dev>
+ dpkg-source --before-build .
+dpkg-buildpackage: info: host architecture amd64
+ fakeroot debian/rules clean
+dh clean
+   dh_auto_clean
+	make -j8 clean
+make[1]: Entering directory '/home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4'
+UUID is "workspaces-material-shell@herculean-inc"
+rm -rf _build
+make[1]: Leaving directory '/home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4'
+   dh_clean
+ dpkg-source -b .
+dpkg-source: warning: Version number suggests Ubuntu changes, but Maintainer: does not have Ubuntu address
+dpkg-source: warning: Version number suggests Ubuntu changes, but there is no XSBC-Original-Maintainer field
+dpkg-source: info: using source format '3.0 (native)'
+dpkg-source: info: building workspaces-material-shell in workspaces-material-shell_1.0ubuntu4.tar.xz
+dpkg-source: info: building workspaces-material-shell in workspaces-material-shell_1.0ubuntu4.dsc
+ debian/rules build
+dh build
+   dh_update_autotools_config
+   dh_autoreconf
+   dh_auto_configure
+   dh_auto_build
+	make -j8 "INSTALL=install --strip-program=true"
+make[1]: Entering directory '/home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4'
+UUID is "workspaces-material-shell@herculean-inc"
+rm -rf _build
+mkdir -p _build
+cp -r src/* _build
+make[1]: Leaving directory '/home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4'
+   dh_auto_test
+   create-stamp debian/debhelper-build-stamp
+ fakeroot debian/rules binary
+dh binary
+   dh_testroot
+   dh_prep
+   dh_auto_install
+	make -j8 install DESTDIR=/home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4/debian/workspaces-material-shell AM_UPDATE_INFO_DIR=no "INSTALL=install --strip-program=true"
+make[1]: Entering directory '/home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4'
+UUID is "workspaces-material-shell@herculean-inc"
+rm -rf _build
+mkdir -p _build
+cp -r src/* _build
+rm -rf /home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4/debian/workspaces-material-shell/usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc
+mkdir -p /home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4/debian/workspaces-material-shell/usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc
+cp -r _build/* /home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4/debian/workspaces-material-shell/usr/share/gnome-shell/extensions/workspaces-material-shell@herculean-inc/
+make[1]: Leaving directory '/home/christian/workspaces/workspaces-material-shell/workspaces-material-shell-1.0ubuntu4'
+   dh_installdocs
+   dh_installchangelogs
+   dh_perl
+   dh_link
+   dh_strip_nondeterminism
+   dh_compress
+   dh_fixperms
+   dh_missing
+   dh_installdeb
+   dh_gencontrol
+   dh_md5sums
+   dh_builddeb
+dpkg-deb: building package 'workspaces-material-shell' in '../workspaces-material-shell_1.0ubuntu4_all.deb'.
+ dpkg-genbuildinfo
+ dpkg-genchanges  >../workspaces-material-shell_1.0ubuntu4_amd64.changes
+dpkg-genchanges: info: including full source code in upload
+ dpkg-source --after-build .
+dpkg-buildpackage: info: full upload; Debian-native package (full source is included)
+Now running lintian workspaces-material-shell_1.0ubuntu4_amd64.changes ...
+E: workspaces-material-shell source: readme-source-is-dh_make-template
+W: workspaces-material-shell source: dh-make-template-in-source debian/workspaces-material-shell.doc-base.EX
+W: workspaces-material-shell source: space-in-std-shortname-in-dep5-copyright <special license> (paragraph at line 5)
+E: workspaces-material-shell source: debian-rules-is-dh_make-template
+E: workspaces-material-shell source: invalid-standards-version 1.0
+W: workspaces-material-shell: wrong-bug-number-in-closes l22:#nnnn
+E: workspaces-material-shell: helper-templates-in-copyright
+E: workspaces-material-shell: copyright-contains-dh_make-todo-boilerplate
+W: workspaces-material-shell: readme-debian-contains-debmake-template
+E: workspaces-material-shell: extended-description-is-empty
+Finished running lintian.

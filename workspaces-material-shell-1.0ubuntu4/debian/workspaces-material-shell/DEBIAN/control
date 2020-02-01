@@ -1,0 +1,10 @@
+Package: workspaces-material-shell
+Version: 1.0ubuntu4
+Architecture: all
+Maintainer: Herculean Inc <hello@hercules.dev>
+Installed-Size: 26374
+Depends: gnome-shell
+Section: metapackages
+Priority: optional
+Homepage: https://github.com/herculean-inc/workspaces-material-shell
+Description: Material Shell for Workspaces.
