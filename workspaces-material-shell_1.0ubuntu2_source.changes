@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 01 Feb 2020 09:34:41 -0600
+Source: workspaces-material-shell
+Architecture: source
+Version: 1.0ubuntu2
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-material-shell (1.0ubuntu2) eoan; urgency=medium
+ .
+   * NEW VERSION
+   * NEW VERSION
+Checksums-Sha1:
+ 82af42f2005adbfc2e172a2427ede990344ead60 1606 workspaces-material-shell_1.0ubuntu2.dsc
+ 886deea35a4afa403f915527f4632746dbf664b5 24489480 workspaces-material-shell_1.0ubuntu2.tar.xz
+ 774bd081970ead752dd8df481e16fbc45e36ea76 6178 workspaces-material-shell_1.0ubuntu2_source.buildinfo
+Checksums-Sha256:
+ 83d2d2f2986c4293dd686e76e3b23cd5cddf4ec22413fdcc3c9366607b01745a 1606 workspaces-material-shell_1.0ubuntu2.dsc
+ 40c214aebee939fe639d1706df33b1721bb17d9612a9a3f8253bacccca48bd39 24489480 workspaces-material-shell_1.0ubuntu2.tar.xz
+ e2ba0a98fb1bbcd6f10070c1c54e05d244e676073b3a8ed0f8cbce63191ba0da 6178 workspaces-material-shell_1.0ubuntu2_source.buildinfo
+Files:
+ d08a5d90d32f190f32895dbac7ba868c 1606 metapackages optional workspaces-material-shell_1.0ubuntu2.dsc
+ 71605da8c81ea9cb8ebc84513ff339af 24489480 metapackages optional workspaces-material-shell_1.0ubuntu2.tar.xz
+ f96b37df18db97c8a573e1356060c794 6178 metapackages optional workspaces-material-shell_1.0ubuntu2_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl41mpwACgkQ4dwtItTb
+NMh4ZQ/8DdFa6gHHulIy49KxZLD3akgWPE+MZZiqqogKe9lT3ZWA7H8x/JzDQH/2
+O7/7NM3cY3A8I9MCK4pLL5cCjL5FBU3tt7YMd2BIW4AQM/H2DDUfqauPLO/JAL/r
+ApDNaC2Df6ru9KjKNKvdyariySpJ2za2M6Kf9fGxEQbOzx5fOXwFLzswUjxfyg9d
+1646ILFAS0O80c5+9ATUbE+e+Uz1k+T/8gCeM/5bCd2od9jIIkC3h3cwyjXQW3P+
+tMAyGiW26BqVbq7JIE+PiUSmUihrtREMgGle8hwNzYSOkM5CEHR4s2A3pARds7ov
+cwsJBXk2e68Np7L4bI/thQ8eh1S6Mxth6p/jBTX4FDuBiM6Hc9fHdkwTgEo6YjjC
+VHztCn9OEneyeDLWORssNjHgdFuSO7LwmKybsKFRF3nUGZZ5iLvmncwyuQ0x5Cl2
+mQ6/wsGQvq90d9lE1GT0JZo+hoIk++ZsgtDAqF/S3ZIrvXoAcRF4D9Twkk9TpHOT
+oGTa68BEhlqURmUN90luaaT88zKwjUTFIRKwW10D1LGAIHWSg3JZ0qvcT8CGy4l5
+dBjdSIODaCd6tWZ1CAcWr1ncyhtJSIF/twaWryZr0hbFmduWtS/va5Ei5OaP+cOd
+bwuFm+s+BBMpGRFAVH187vzx4d7RWpigu9Ys3w+S2pj1ZItMtIU=
+=oHMf
+-----END PGP SIGNATURE-----
