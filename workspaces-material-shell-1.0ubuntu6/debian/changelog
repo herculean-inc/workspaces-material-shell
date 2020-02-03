@@ -1,0 +1,36 @@
+workspaces-material-shell (1.0ubuntu6) eoan; urgency=medium
+
+  * NEW VERSION
+
+ -- Herculean Inc <hello@hercules.dev>  Sun, 02 Feb 2020 19:10:47 -0600
+
+workspaces-material-shell (1.0ubuntu5) eoan; urgency=medium
+
+  * NEW VERSION
+
+ -- Herculean Inc <hello@hercules.dev>  Sat, 01 Feb 2020 15:15:01 -0600
+
+workspaces-material-shell (1.0ubuntu4) eoan; urgency=medium
+
+  * NEW VERSION
+
+ -- Herculean Inc <hello@hercules.dev>  Sat, 01 Feb 2020 13:03:44 -0600
+
+workspaces-material-shell (1.0ubuntu3) eoan; urgency=medium
+
+  * NEW VERSION
+
+ -- Herculean Inc <hello@hercules.dev>  Sat, 01 Feb 2020 11:36:58 -0600
+
+workspaces-material-shell (1.0ubuntu2) eoan; urgency=medium
+
+  * NEW VERSION
+  * NEW VERSION
+
+ -- Herculean Inc <hello@hercules.dev>  Sat, 01 Feb 2020 09:34:41 -0600
+
+workspaces-material-shell (1.0) eoan; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Herculean Inc <hello@hercules.dev>  Fri, 31 Jan 2020 14:52:58 -0600

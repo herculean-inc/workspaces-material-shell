@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 02 Feb 2020 19:10:47 -0600
+Source: workspaces-material-shell
+Binary: workspaces-material-shell
+Architecture: source all
+Version: 1.0ubuntu6
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Description:
+ workspaces-material-shell - Material Shell for Workspaces.
+Changes:
+ workspaces-material-shell (1.0ubuntu6) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ ea4a298d66dff70f80be4ec9751a7c264fc438e8 725 workspaces-material-shell_1.0ubuntu6.dsc
+ c0ab1133b6527945eae29dc1801699cc3ac27a3c 24498956 workspaces-material-shell_1.0ubuntu6.tar.xz
+ a54a2475a478032a3230660667faac658aa0a9f3 24504348 workspaces-material-shell_1.0ubuntu6_all.deb
+ 6abeb2587626e646009de021cdbd40674b998816 5600 workspaces-material-shell_1.0ubuntu6_amd64.buildinfo
+Checksums-Sha256:
+ e297d12019e34637901b13f9c6c1484adc31ebe0b9d55156254429ad40b086d7 725 workspaces-material-shell_1.0ubuntu6.dsc
+ 51f6a6b5e993f90086c0a3ac59899033194caf97bcab893476d5150ccb6c5cbe 24498956 workspaces-material-shell_1.0ubuntu6.tar.xz
+ 092a43b0e30b08830a1e3651f6cbb2a8266753545c413d65fd3f242171f3f3df 24504348 workspaces-material-shell_1.0ubuntu6_all.deb
+ fb559a4909767fed8d83e689eec6b6f541ea63391ac0b94551d8854c81fcc135 5600 workspaces-material-shell_1.0ubuntu6_amd64.buildinfo
+Files:
+ f30952fce127dda3c71ee23ebc661b15 725 metapackages optional workspaces-material-shell_1.0ubuntu6.dsc
+ 0802505ced8daa13a48306a81b53ec37 24498956 metapackages optional workspaces-material-shell_1.0ubuntu6.tar.xz
+ 5d947ec83bc36cea6231e1076c821025 24504348 metapackages optional workspaces-material-shell_1.0ubuntu6_all.deb
+ b27c468c85d96de443693ae0bf34cb27 5600 metapackages optional workspaces-material-shell_1.0ubuntu6_amd64.buildinfo

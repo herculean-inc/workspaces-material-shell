@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 02 Feb 2020 19:10:47 -0600
+Source: workspaces-material-shell
+Architecture: source
+Version: 1.0ubuntu6
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-material-shell (1.0ubuntu6) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 81a5294e98e3f7bd22d4426d42e7374980670def 1608 workspaces-material-shell_1.0ubuntu6.dsc
+ 9f497af7764c40d04b1ca2493d515c6915ca6d60 24500120 workspaces-material-shell_1.0ubuntu6.tar.xz
+ 5c0dcd2ff1b3e13ec6c4e59cd0cdb8409ed7bc55 6178 workspaces-material-shell_1.0ubuntu6_source.buildinfo
+Checksums-Sha256:
+ 875846e600c9428209c48fe69e2179c93b8d5e195621fe7b58702fefbf1dae7f 1608 workspaces-material-shell_1.0ubuntu6.dsc
+ 9a72492ae75cdce6804010b9c98f901f9684c75a03f99d7c0caf171a2e2bbd25 24500120 workspaces-material-shell_1.0ubuntu6.tar.xz
+ c3b078e6d9c5cfb2d94078f3533be304f673c73e2045c2712300f4f2fa09f936 6178 workspaces-material-shell_1.0ubuntu6_source.buildinfo
+Files:
+ e29ddea98dd861cf326c82eaa87be6c4 1608 metapackages optional workspaces-material-shell_1.0ubuntu6.dsc
+ b509efc208632f19843569e965097ddc 24500120 metapackages optional workspaces-material-shell_1.0ubuntu6.tar.xz
+ 9734a662ed424fadb5cd56e0c26a37f2 6178 metapackages optional workspaces-material-shell_1.0ubuntu6_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl43cyEACgkQ4dwtItTb
+NMjBGA/+ORNjM5mf523iB35WL16vpwNMwCripMzxUNTJh/dE4BRJBvoQ4+fg2c7j
+ZjHz5fERQLSZOC4FiJZ5q/IbDU+Az2i2zxYEVGabGPuosFrBXuIIS1NFvJxNEXXK
+Drxpl3L1z+dO/g/NYlnf1eU9iodotNbNsCQiDsyTwW6gG6G0tqs9zEFF1Yb/TxVT
+lLu34m1s8cIaqG7i9NyExnagefgeydEVxRchQFdx1rNwLiwsDqf9xf16seqMXlIu
+YfY9JUVNc4PzPPlfKX6OqsOTQSm6mypTRBVfX2+6VrKRYb5ODhtBu2VZc5qNVYpt
+3ZjQyl4nILLfLWEbUqIEVSJz5JFZt0KxJMj8ZlQJQYuHkROlUDdSldwWIzVJB5Ak
+wRfLcBcnNX47QrIWNaDWLBZ7wcaSTa+jybJRLbCViaZluJOx+2EbRiiWru6FFyV4
+FLVI+leoRlBXLWUtH/7KbF+u2FgNWOnAL+tmCE53rZ9Ruu07TAtD2a0VutQ2vR1p
+gdNffBGvZFE/IBdkXJxuZ8Jf32M9aXnaVUZSrcBd4YZ/Wv1U804O5eF+MJXqNIHF
+Udym7F9g6t7K1PNEBQioyXq25UI/FFGtOcFTE3zMr+gRXfkXWBQWuAh0ExvKE6VL
+lLilE0hf3CN4F4CSIC8R/22nf+5utqoUkas3NgZUzRz+awLwrXE=
+=Qogw
+-----END PGP SIGNATURE-----
